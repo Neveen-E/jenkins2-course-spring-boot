@@ -12,7 +12,7 @@ $(function() {
 	var subSocket;
 	var transport = 'websocket';
 
-	// We are now ready to cut the request ----
+	// We are now ready to cut the request -
 	var request = {
 		url : '/chat',
 		contentType : "application/json",
