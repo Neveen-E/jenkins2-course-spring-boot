@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+/*comment*/
 package sample.atmosphere;
 
 import java.io.IOException;
